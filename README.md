@@ -4,7 +4,7 @@ These is the project is about the school managment that managed the all teachers
 
  -::SCHOOL MANAGMENT SYSTEM::-
 
-   ^^^^^^^^::MENU::^^^^^^^^
+   ^^^^^^^^^::MENU::^^^^^^^^^
        1) Teacher Details
        2) Students Marks by Teacher
        3) Search Teacher Details
